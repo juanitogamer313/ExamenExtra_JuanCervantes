@@ -1,4 +1,4 @@
-namespace ExamenExtra_FundamentosSoftware_JuanCervantes.interface; 
+namespace ExamenExtra_FundamentosSoftware_JuanCervantes.interfaces; 
     public interface IHabilidad
     {
 
